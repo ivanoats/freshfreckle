@@ -1,6 +1,6 @@
 # Freshfreckle
 
-TODO: Write a gem description
+Takes time from FreshBooks and posts it to Freckle
 
 ## Installation
 
